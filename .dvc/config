@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "fuente1ocal"']
+    url = /tmp/dvcstore
+['remote "aws-remote"']
+    url = s3://camilo-dvctore
